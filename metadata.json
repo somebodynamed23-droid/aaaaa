@@ -1,0 +1,5 @@
+{
+  "name": "DAC Sequestration Simulator",
+  "description": "A high-fidelity real-time simulation of a Direct Air Capture (DAC) tower using Sodium Hydroxide (NaOH) mist to sequester CO2 into Sodium Carbonate (Na2CO3). Includes live telemetry, yield tracking, and AI-driven optimization insights.",
+  "requestFramePermissions": []
+}
